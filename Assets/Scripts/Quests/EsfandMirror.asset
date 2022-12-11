@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c053e01f517cbd74395467c90e06e7cf, type: 3}
+  m_Name: EsfandMirror
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 8300000, guid: a7164def9545ec5448ae97dba186590a, type: 3}
+    - {fileID: 8300000, guid: 3ea34e10acb9327489d55aac0127ec23, type: 3}
+    - {fileID: 8300000, guid: ebbe4eb51e319924ba696bc05a973fee, type: 3}
+    - {fileID: 8300000, guid: f40b17e963ec87b41b36f022d7fe28ea, type: 3}
+    - {fileID: 8300000, guid: cc6e648aa521e414c99cae0a0500d98e, type: 3}
+    - {fileID: 8300000, guid: 3b844be5356ad5746b60900581ad3c1f, type: 3}
+    - {fileID: 8300000, guid: 426b5bc086a5b644b8a1eaf2946eafb7, type: 3}
+    - {fileID: 8300000, guid: cedb8a1986aa50f4c883fd2012730bc5, type: 3}
+    - {fileID: 8300000, guid: ff083f0e061cc7d47b93ec41ea4515cd, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: audioClipsSubbed
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[TextPerClip, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: 9.2 out of 10.
+    - Name: clip
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Mmh. Tasty.
+    - Name: clip
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: You are the best role model.
+    - Name: clip
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Very good.
+    - Name: clip
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Tasty.
+    - Name: clip
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Nice.
+    - Name: clip
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Mmh.
+    - Name: clip
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Mmh.
+    - Name: clip
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TextPerClip, Assembly-CSharp
+    - Name: text
+      Entry: 1
+      Data: Mmh.
+    - Name: clip
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  useTextPerClip: 1
+  useSingle: 0
+  text: 
+  audioClip: {fileID: 0}
+  audioClips: []
