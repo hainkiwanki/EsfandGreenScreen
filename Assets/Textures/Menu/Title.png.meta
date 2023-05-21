@@ -534,7 +534,7 @@ TextureImporter:
       213: -2668142830677285480
     second: Title_176
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -554,6 +554,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -562,12 +564,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -585,10 +587,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -616,6 +622,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1878,6 +1896,66 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Title_0: -7352339073622421304
+      Title_1: 578584420991164872
+      Title_10: 1883129450418887258
+      Title_11: 831226060202523121
+      Title_12: -5611296808718163769
+      Title_13: -2980618429333584377
+      Title_14: -6489994065110802945
+      Title_15: 1185279196486844169
+      Title_16: -8938237866032844517
+      Title_17: 7549936563529260177
+      Title_18: -3912535757841368806
+      Title_19: 7986414349913673620
+      Title_2: -2586058674264470982
+      Title_20: -5473989836383813982
+      Title_21: -3945733060299393030
+      Title_22: -8649738602703228084
+      Title_23: -5348464669708909733
+      Title_24: -4699841759642437723
+      Title_25: -9086561684665523175
+      Title_26: 1882604650658863205
+      Title_27: 6527579019921147228
+      Title_28: 7014816605549478080
+      Title_29: -3863732647898295551
+      Title_3: -7455755055849233376
+      Title_30: -5421475909282905177
+      Title_31: -6899762407534483280
+      Title_32: -5562957769956093291
+      Title_33: 8603381141915477333
+      Title_34: -2754575735528168044
+      Title_35: 6035042475474431981
+      Title_36: -2295587258739268581
+      Title_37: 4305824345603381659
+      Title_38: 22342238444747185
+      Title_39: 979736554165904594
+      Title_4: -2920429353955323833
+      Title_40: -8785068195768418704
+      Title_41: -7656258393866059805
+      Title_42: -7100585993335614454
+      Title_43: -2495748221009937188
+      Title_44: -4942498820496533244
+      Title_45: 8667136967479829455
+      Title_46: -5835220293595659438
+      Title_47: -5804945335265095955
+      Title_48: 3353463797067293131
+      Title_49: 9152229681708237317
+      Title_5: -8183731707024800371
+      Title_50: 4894114665244810917
+      Title_51: 1829606785306036693
+      Title_52: -4791188820214216726
+      Title_53: -7836981038780444673
+      Title_54: -552486040852078896
+      Title_55: 4982278423608613679
+      Title_56: 5922399490779797744
+      Title_57: -5897891185833394027
+      Title_58: -7258245180040982488
+      Title_6: -2698452132489872219
+      Title_7: -4950144012914721142
+      Title_8: 3188867983059848843
+      Title_9: 7852301220439587256
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
