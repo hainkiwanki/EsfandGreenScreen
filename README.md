@@ -4,7 +4,7 @@
  I used greenscreen video footage to create sprites using all kinds of software. From adobe illustrator, to a sprite stitcher program, to unity, visual studio, etc...
 
 Streamer's reaction 1st time:
-https://youtu.be/nkpE_TAmgKc
+https://youtu.be/nkpE_TAmgKc (~6m)
 
 Second time:
-https://youtu.be/_jnGB0mJeGw
+https://youtu.be/_jnGB0mJeGw (~15m)
